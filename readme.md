@@ -12,13 +12,13 @@ Los writeups de esta carpeta corresponden al evento Wargames.MY CTF 2024, desarr
 
 ---
 
-Fueron resueltos 3 challenges, 2 de la categoría forensics y 1 de ???:
+Fueron resueltos 3 challenges, 2 de la categoría forensics y 1 de cripto:
 
 | Challenge | Categoría |
 | --- | :---:
 | ✅ I Cant Manipulate People | forensia |
 | ✅ Unwanted Meow | forensia |
-| ✅  |  |
+| ✅ Credentials | cripto |
 
 
-![Team Score](./team-score.png)
+![Desafios](./desafios.png)
